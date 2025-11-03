@@ -1,1 +1,54 @@
-{"meta":{"name":"Masjid At Taubah","addr":"Perum T Murni RW-15","lat":null,"lon":null,"myqCityId":1203},"slides":[{"src":"https://wisatamuliainsani.com/wp-content/uploads/2024/07/Mengintip-Keindahan-Kota-Thaif-yang-Penuh-dengan-Sejarah-Wisata-Mulia-Insani-scaled.jpg","caption":"Thaif"}],"rt":null,"offsets":{},"iqamah":{},"notify":{"notifySeconds":240,"startedMinutes":10},"auth":{"token":"MATTAUBAH","ts":1762177894252}}
+{
+  "meta": {
+    "name": "Masjid At Taubah",
+    "addr": "Perum T Murni RW-15",
+    "lat": null,
+    "lon": null,
+    "myqCityId": 1203
+  },
+  "slides": [
+    {
+      "src": "https://wisatamuliainsani.com/wp-content/uploads/2024/07/Mengintip-Keindahan-Kota-Thaif-yang-Penuh-dengan-Sejarah-Wisata-Mulia-Insani-scaled.jpg",
+      "caption": "Thaif",
+      "schedule": { "type": "always" }
+    }
+  ],
+  "rt": {
+    "content": [
+      "Selamat datang di Masjid At Taubah",
+      "Jadwal sholat mengikuti kota setempat",
+      "Donasi dapat melalui rekening BSM 123-456-789 a.n. Masjid At Taubah"
+    ]
+  },
+  "offsets": {
+    "Fajr": 0,
+    "Sunrise": 0,
+    "Dhuhr": 0,
+    "Asr": 0,
+    "Maghrib": 0,
+    "Isha": 0
+  },
+  "iqamah": {
+    "Fajr": 10,
+    "Dhuhr": 10,
+    "Asr": 10,
+    "Maghrib": 5,
+    "Isha": 10
+  },
+  "notify": {
+    "notifySeconds": 240,
+    "startedMinutes": 10
+  },
+  "adzan": {
+    "adzanBeepSeconds": 5,
+    "adzanPattern": "standard"
+  },
+  "keuangan": [
+    { "year": 2025, "month": "01", "penerimaan": 1500000, "pengeluaran": 500000, "saldo": 1000000 }
+  ],
+  "keuangan_meta": { "hadist": "Dan apa saja yang kamu infakkan, Allah akan menggantinya..." },
+  "auth": {
+    "token": "MATTAUBAH",
+    "ts": 1762177894252
+  }
+}
