@@ -1,5 +1,5 @@
 {
   "path": "jammasjid_backup_2025-11-04.json",
-  "content": "{\"meta\":{\"name\":\"Masjid Al Jabar\",\"addr\":\"\",\"lat\":null,\"lon\":null,\"myqCityId\":1203},\"slides\":[],\"rt\":{\"content\":[\"Selamat datang di Masjid\"]},\"offsets\":{\"Fajr\":0,\"Dhuhr\":0,\"Asr\":0,\"Maghrib\":0,\"Isha\":0},\"iqamah\":{\"Fajr\":10,\"Dhuhr\":10,\"Asr\":10,\"Maghrib\":10,\"Isha\":10},\"notify\":{\"notifySeconds\":240,\"startedMinutes\":10},\"keuangan\":[],\"keuangan_meta\":{\"hadist\":\"\"},\"auth\":{\"token\":\"\",\"ts\":1762259640266},\"message\":\"Update jammasjid via generator 2025-11-04T12:34:00.266Z\"}",
+  "content": "{\"meta\":{\"name\":\"Masjid Al Jabar\",\"addr\":\"Perum Telaga Murni\",\"lat\":null,\"lon\":null,\"myqCityId\":1203},\"slides\":[],\"rt\":{\"content\":[\"Selamat Datang di Masjid Al Jabar\",\"Harap Matikan / Silent HP\"]},\"offsets\":{\"Fajr\":0,\"Dhuhr\":0,\"Asr\":0,\"Maghrib\":0,\"Isha\":0},\"iqamah\":{\"Fajr\":10,\"Dhuhr\":10,\"Asr\":10,\"Maghrib\":10,\"Isha\":10},\"notify\":{\"notifySeconds\":240,\"startedMinutes\":10},\"keuangan\":[],\"keuangan_meta\":{\"hadist\":\"\"},\"auth\":{\"token\":\"\",\"ts\":1762260725571},\"message\":\"Update jammasjid via generator 2025-11-04T12:52:05.571Z\"}",
   "message": "Update jammasjid via generator"
 }
